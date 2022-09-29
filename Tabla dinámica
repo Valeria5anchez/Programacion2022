@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+     <style>
+          table, th, td{
+               border: 1px solid black;
+               border-collapse: collapse;
+          }
+          th, td{
+               padding; 10px
+          }
+     </style>
+     <head>
+         <meta charset="utf-8">
+          <title>"Segunda practica" </title>
+           <script> alert("hola mundo"); </script>
+     </head>
+     <body>
+         <p>Esta es mi pagina</p>
+         <p>Hola, me llamo Valeria Suzette</p>
+          <table>
+               <tr>
+                    <th>Nombre</th>
+                    <th>Apellidos</th>
+                    <th>Sexo</th>
+                    <th>Correo Electronico</th>
+               </tr>
+               <tr>
+                    <td>jose</td>
+                    <td>Miguel</td>
+                    <td>H</td>
+                    <td>joseM1g@gmail.com</td>
+               </tr>
+               </tr>
+               <tr>
+                    <td>María</td>
+                    <td>Guadalupe</td>
+                    <td>M</td>
+                    <td>MmaryG3@gmail.com</td>
+               </tr>
+          </tr>
+               <tr>
+                    <td>jose</td>
+                    <td>Adrián</td>
+                    <td>H</td>
+                    <td>Adr1j0@gmail.com</td>
+               </tr>
+          </table>
+     </body>          
+</html>
